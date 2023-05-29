@@ -1,0 +1,5 @@
+@media screen and (min-widht: 300px) {
+  .container__menu-title{
+       font-size: 10px;
+    }
+}
